@@ -1,0 +1,18 @@
+Rows: 3
+Columns: 5
+Start point row: 0
+Start point column: 0
+End point row: 2
+End point column: 4
+
+Display:
+--------------------
+| S: 0 | 0 | 0 | 0 | 0 | 
+--------------------
+| 0 | 0 | 0 | 0 | 0 | 
+--------------------
+| 0 | 0 | 0 | 0 | E: 0 | 
+--------------------
+Legend:
+0 = Empty Cell	W = Wall	T = Treasure	E= Enemy	C = Character
+

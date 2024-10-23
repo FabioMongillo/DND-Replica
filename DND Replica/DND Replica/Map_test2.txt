@@ -1,0 +1,33 @@
+Rows: 5
+Columns: 5
+Start point row: 0
+Start point column: 0
+End point row: 4
+End point column: 4
+Wall: (0,2)
+Wall: (0,3)
+Wall: (1,0)
+Wall: (2,0)
+Enemy: (2,1)
+Wall: (2,2)
+Wall: (3,0)
+Treasure: (3,1)
+Wall: (3,2)
+Wall: (4,0)
+Wall: (4,1)
+Wall: (4,2)
+
+Display:
+--------------------
+| S: 0 | 0 | W | W | 0 | 
+--------------------
+| W | 0 | 0 | 0 | 0 | 
+--------------------
+| W | E | W | 0 | 0 | 
+--------------------
+| W | T | W | 0 | 0 | 
+--------------------
+| W | W | W | 0 | E: 0 | 
+--------------------
+Legend:
+0 = Empty Cell	W = Wall	T = Treasure	E= Enemy	C = Character

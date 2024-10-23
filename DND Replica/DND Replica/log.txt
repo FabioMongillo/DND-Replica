@@ -1,0 +1,22 @@
+Player turn.
+Current position: (0, 0)
+Character moved right. New position: (0, 1)
+Player turn.
+Current position: (0, 0)
+No movement made.Player turn.
+Current position: (0, 0)
+Character moved right. New position: (0, 1)
+Player turn.
+Current position: (0, 0)
+Player turn.
+Current position: (0, 0)
+Player turn.
+Current position: (0, 0)
+Player turn.
+Current position: (0, 0)
+Player turn.
+Current position: (0, 0)
+Player turn.
+Current position: (0, 0)
+Player turn.
+Current position: (0, 0)
